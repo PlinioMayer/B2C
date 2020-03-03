@@ -23,7 +23,7 @@ const HeaderText = styled.Text`
 
 const Header = () => (
   <HeaderView>
-    <HeaderText>B2C</HeaderText>
+    <HeaderText>B2D</HeaderText>
   </HeaderView>
 );
 

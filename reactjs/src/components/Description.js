@@ -8,7 +8,7 @@ const Text = styled.span`
 `;
 
 const Description = () => (
-  <Text>Bem-vindo ao conversor B2C, para começar digite um número binário e ele será convertido para decimal.</Text>
+  <Text>Bem-vindo ao conversor B2D, para começar digite um número binário e ele será convertido para decimal.</Text>
 );
 
 export default Description;

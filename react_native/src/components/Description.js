@@ -17,7 +17,7 @@ const DescriptionView = styled.View`
 const Description = () => (
   <DescriptionView>
     <DescriptionText>
-      Bem-vindo ao conversor B2C, para começar digite um número binário e ele será convertido para decimal.
+      Bem-vindo ao conversor B2D, para começar digite um número binário e ele será convertido para decimal.
     </DescriptionText>
   </DescriptionView>
 );

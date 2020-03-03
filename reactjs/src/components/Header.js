@@ -16,7 +16,7 @@ const HeaderDiv = styled.div`
 `;
 
 const Header = () => (
-  <HeaderDiv>B2C</HeaderDiv>
+  <HeaderDiv>B2D</HeaderDiv>
 );
 
 export default Header;
